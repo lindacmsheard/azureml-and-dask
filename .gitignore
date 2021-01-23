@@ -3,3 +3,5 @@
 rapids_interactive/data/*
 **/._*
 nohup.out
+**/*.amltemp
+**/.ipynb_aml_checkpoints/*
